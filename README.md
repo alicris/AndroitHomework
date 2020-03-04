@@ -1,2 +1,2 @@
-# AndroitHomework
-Alicia-Diplomado Andoit
+# AndroidHomework
+Alicia-Diplomado Andoid
